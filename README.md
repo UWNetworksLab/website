@@ -1,4 +1,4 @@
-website
+NetLab Website
 =======
 
-netlab.cs.washington.edu
+Repository for the website located at http://netlab.cs.washington.edu.
