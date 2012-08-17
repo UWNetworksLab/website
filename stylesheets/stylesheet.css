@@ -156,10 +156,10 @@ a.button span {
   background: transparent url(../images/cse-icon.png) 12px 50% no-repeat;
 }
 #view-on-gp span {
-  background: transparent url(../images/gplus-icon.png) 12px 50% no-repeat;
+  background: transparent url(../img/gplus-icon.png) 12px 50% no-repeat;
 }
 #view-on-github span {
-  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
+  background: transparent url(../img/octocat-icon.png) 12px 50% no-repeat;
 }
 #view-on-github {
   margin-right: 0;
@@ -205,7 +205,7 @@ hr {
   margin-top: 1em;
   padding-bottom: 1em;
   border: none;
-  background: transparent url('../images/hr.png') 50% 0 no-repeat;
+  background: transparent url('../img/hr.png') 50% 0 no-repeat;
 }
 
 strong {
@@ -309,7 +309,7 @@ dl dt {
 }
 
 footer {
-  background: transparent url('../images/hr.png') 0 0 no-repeat;
+  background: transparent url('../img/hr.png') 0 0 no-repeat;
   margin-top: 40px;
   padding-top: 20px;
   padding-bottom: 30px;
