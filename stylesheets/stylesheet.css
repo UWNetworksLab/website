@@ -50,7 +50,7 @@ table {
 body {
   font-size: 1em;
   line-height: 1.5; 
-  background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
+  background: #e7e7e7 url(../img/body-bg.png) 0 0 repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   color: #6d6d6d;
@@ -85,7 +85,7 @@ header h2 {
 }
 
 #container {
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
+  background: transparent url(../img/highlight-bg.jpg) 50% 0 no-repeat;
   min-height: 595px;
 }
 
@@ -153,7 +153,7 @@ a.button span {
 }
 
 #view-on-cse span {
-  background: transparent url(../images/cse-icon.png) 12px 50% no-repeat;
+  background: transparent url(../img/cse-icon.png) 12px 50% no-repeat;
 }
 #view-on-gp span {
   background: transparent url(../img/gplus-icon.png) 12px 50% no-repeat;
